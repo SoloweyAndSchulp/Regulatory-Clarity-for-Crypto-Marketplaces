@@ -9,6 +9,8 @@ Marketplaces for buying, selling, and trading crypto tokens serve a diverse rang
 
 Like crypto tokens, the marketplaces on which they trade can be either centralized projects reliant on intermediaries (centralized exchanges, or “CEXs”), or decentralized protocols composed of code (decentralized exchanges, or “DEXs”). Tokens themselves can be centralized, exhibiting the characteristics of securities, or decentralized, functioning as commodities.**[1]**  The crypto ecosystem thus can be thought of as a two-by-two matrix consisting of both CEXs and DEXs for trading both crypto securities and crypto commodities (see Figure 1). 
 
+![Figure 1](https://github.com/SoloweyAndSchulp/Regulatory-Clarity-for-Crypto-Marketplaces/blob/main/working-paper-71-figure-1.png)
+
 This briefing paper proposes crypto marketplace regulatory policy that is sensitive to these distinctions. It calls for Congress to narrowly tailor rules to relevant risks by clearly defining what it means to be a decentralized exchange; providing centralized crypto token exchanges with a practical path to register with their respective regulators (e.g., the Securities and Exchange Commission (SEC) or the Commodity Futures Trading Commission (CFTC)); and making such registration by decentralized crypto token exchanges strictly voluntary. These proposals support informed consumer choice among different types of marketplaces based on individuals’ own needs, not legacy regulations that disserve the users, developers, and dynamism of decentralized marketplaces.**[2]**
 
 ## Background on Marketplaces and Their Regulation
@@ -42,6 +44,8 @@ Other forms of users’ manipulative trading practices that seek to influence su
 ## A Framework for Crypto Marketplaces
 
 Centralized and decentralized exchanges present different risk profiles. Regulations ought to be tailored accordingly. 
+
+![Figure 2](https://github.com/SoloweyAndSchulp/Regulatory-Clarity-for-Crypto-Marketplaces/blob/main/working-paper-71-figure-2.PNG)
 
 Outright fraud should be prohibited regardless of the type of marketplace in which it occurs.**[38]**  Securities laws and regulations already address this, making it unlawful to defraud or make untrue statements or misleading omissions of material fact in connection with the purchase or sale of any security.**[39]**  The same is effectively true in the commodities context, where it is unlawful to intentionally or recklessly defraud or make any untrue or misleading statement or omission of material fact in connection with a contract of sale of any commodity in interstate commerce.**[40]**  
 
